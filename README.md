@@ -12,3 +12,7 @@
 - R
 
 - Python
+
+- Java
+
+- SQL
